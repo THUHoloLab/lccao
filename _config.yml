@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Liangcai Cao"
   avatar           : "profile.png"
-  bio              : "Hololab@Tsinghua University"
+  bio              : "Associate Professor, Tsinghua University"
   location         : "Beijing, China"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "clc@tsinghua.edu.cn"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/liangcai-cao-09895227/"
+  linkedin         : "liangcai-cao-09895227/"
   orcid            : 
   pinterest        :
   soundcloud       :
