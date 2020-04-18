@@ -87,9 +87,9 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "clc at tsinghua.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  email            : "clc@tsinghua.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Liangcai_Cao"
+  uri              : "http://faculty.dpi.tsinghua.edu.cn/clc.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/liangcai-cao-09895227/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   Wechat           : 13691572257
