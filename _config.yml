@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liangcai Cao / Homepage"
+title                    : "Liangcai Cao / test"
 title_separator          : "-"
 name                     : &name "Liangcai Cao"
 description              : &description "personal description"
